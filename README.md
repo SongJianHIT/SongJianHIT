@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=人生是一场非完全信息博弈。;&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=020BF7&center=true&vCenter=true&width=435&lines=Life+is+an+incomplete+information+game." alt="Typing SVG" />
     </a>
   </div>
 
